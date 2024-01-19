@@ -1,6 +1,8 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Profile from "./Profile";
+import ProfileButton from "./ProfileButton";
+import Clock from "./Clock";
 
 function App() {
   return (
