@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/clayton-website/static/css/main.f855e6bc.css",
-    "main.js": "/clayton-website/static/js/main.d5d98a6d.js",
+    "main.js": "/clayton-website/static/js/main.6a56bba5.js",
     "static/js/787.cef1ecf9.chunk.js": "/clayton-website/static/js/787.cef1ecf9.chunk.js",
     "static/media/logo.svg": "/clayton-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/clayton-website/index.html",
     "main.f855e6bc.css.map": "/clayton-website/static/css/main.f855e6bc.css.map",
-    "main.d5d98a6d.js.map": "/clayton-website/static/js/main.d5d98a6d.js.map",
+    "main.6a56bba5.js.map": "/clayton-website/static/js/main.6a56bba5.js.map",
     "787.cef1ecf9.chunk.js.map": "/clayton-website/static/js/787.cef1ecf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d5d98a6d.js"
+    "static/js/main.6a56bba5.js"
   ]
 }
